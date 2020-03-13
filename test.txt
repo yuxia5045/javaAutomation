@@ -1,5 +1,3 @@
 tisest
 test
-merged content
-这是master分支的内容
-
+merge conflict fixed
