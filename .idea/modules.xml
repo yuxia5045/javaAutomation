@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/APITest/APITest.iml" filepath="$PROJECT_DIR$/APITest/APITest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/javaAutomation.iml" filepath="$PROJECT_DIR$/.idea/javaAutomation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5/chapter5.iml" filepath="$PROJECT_DIR$/chapter5/chapter5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter6/chapter6.iml" filepath="$PROJECT_DIR$/chapter6/chapter6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaAutomation.iml" filepath="$PROJECT_DIR$/javaAutomation.iml" />
     </modules>
   </component>
 </project>
