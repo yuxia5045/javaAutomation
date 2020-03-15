@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="E:/Git/workspace/bili/javaAutomation/chapter5/src/test/java/com/testing/suite/LoginTest.java"><classes><class name="com.testing.suite.LoginTest"><methods><include name="loginSucess"/></methods></class></classes></test></suite>
